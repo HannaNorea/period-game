@@ -1,5 +1,5 @@
 /*  This is a simulation of period pain
-   Copyright Isra Rab and Hanna Thenor Årström
+   Copyright Isra Rab and Hanna Thenor Årström, All rights reserved
    It consists of 2 servos, one waterpump, one potentionmeter, one joystick and LED
    Early Autumn version 2018
 */
